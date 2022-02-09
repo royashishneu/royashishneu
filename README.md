@@ -30,7 +30,7 @@ const roy = {
 
 📩 Here's my <a href="https://drive.google.com/file/d/1MqeacFQQng_lKyZXmH-k14-WQSVekjQ9/view?usp=sharing">Cover Letter</a>
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love interacting with people, so let's meet up for a cup of coffee and get to know ourselves a bit better</b> :)</em>
 
 
 
