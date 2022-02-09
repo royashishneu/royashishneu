@@ -16,7 +16,8 @@ Co-Founder of <a href="https://www.linkedin.com/company/e-cell-slrtce/?originalS
 ```javascript
 const roy = {
   pronouns: "he" | "him",
-  code: [Python, Java, Scala, R, C, C++, SQL, T-SQL, MongoDB, Spark],
+  code: [Python, Java, Scala, R, C, C++, SQL, T-SQL, MongoDB, Spark, Hadoop],
+  ml packages: [TensorFlow, PyTorch, SciPy, Keras, NumPy, Seaborn, Scikit-Learn, Pandas, NLTK, Matplotlib]
   tools: [AWS, Kafka, Discovery HPC Cluster, Anaconda, Tableau, PowerBI, MS Office, NetBeans, IntelliJ],
   certifications: [Tableau Analyst, Tableau Data Scientist, Statistics for Data Science and Business Analysis - Udemy,
                    The Data Science Course 2020 - Udemy]
