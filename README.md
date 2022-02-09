@@ -10,6 +10,7 @@
 
 Engineer specializing in Data Analysis, Machine Learning, Big Data, and Cloud Computing with expertise in Python, R, Machine Learning, SQL, and Tableau. I am motivated by entrepreneurship and business development.
 
+Co-Founder of <a href="https://www.linkedin.com/company/e-cell-slrtce/?originalSubdomain=in">E-Cell SLRTCE</a>
 
 
 ```javascript
