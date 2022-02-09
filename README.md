@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ashish Roy! </h2>
+<h2> Hi, I'm Ashish Roy! <img src="https://giphy.com/embed/OGyTuH0fp3pmEjoide"></h2> 
 <img align='right' src="https://media.giphy.com/media/qX8pJY8ejpVtD8BNoP/giphy.gif" width="230">
 <p><em>Master of Science in Information Systems at <a href="https://www.northeastern.edu">Northeastern University</a>
 </em></p>
