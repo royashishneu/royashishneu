@@ -26,6 +26,12 @@ const roy = {
 
 📫 How to reach me roy.as@northeastern.edu
 
+📄 Here's my <a href="https://drive.google.com/file/d/1qrIj5P-Ap5-5MS4ytNjat_sMdzl_bymj/view?usp=sharing">Resume</a>
+
+📩 Here's my <a href="https://drive.google.com/file/d/1MqeacFQQng_lKyZXmH-k14-WQSVekjQ9/view?usp=sharing">Cover Letter</a>
+
+
+
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
