@@ -11,6 +11,7 @@
 Engineer specializing in Data Analysis, Machine Learning, Big Data, and Cloud Computing with expertise in Python, R, Machine Learning, SQL, and Tableau. I am motivated by entrepreneurship and business development.
 
 
+
 ```javascript
 const roy = {
   pronouns: "he" | "him",
