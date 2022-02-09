@@ -22,7 +22,7 @@ const roy = {
 ```
 🌱 I’m currently learning about Doker and Kubernetes
 
-🤝 I’m looking for help with Co-op or Internship opportunities this summer <img align='right' src="https://media.giphy.com/media/qX8pJY8ejpVtD8BNoP/giphy.gif" width="230">
+🤝 I’m looking for Co-op or Internship opportunities this summer <img align='right' src="https://media.giphy.com/media/qX8pJY8ejpVtD8BNoP/giphy.gif" width="230">
 
 📫 How to reach me roy.as@northeastern.edu 
 
