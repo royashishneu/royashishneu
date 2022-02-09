@@ -1,5 +1,5 @@
-<h2> Hi, I'm Ashish Roy! <img src="https://giphy.com/embed/OGyTuH0fp3pmEjoide"></h2> 
-<img align='right' src="https://media.giphy.com/media/qX8pJY8ejpVtD8BNoP/giphy.gif" width="230">
+<h2> Hi, I'm Ashish Roy! </h2> <img align='right' src="https://github.com/royashishneu/royashishneu/blob/main/giphy.gif" width="230">
+
 <p><em>Master of Science in Information Systems at <a href="https://www.northeastern.edu">Northeastern University</a>
 </em></p>
 
@@ -7,6 +7,8 @@
 
 
 ### A little more about me...
+
+Engineer specializing in Data Analysis, Machine Learning, Big Data, and Cloud Computing with expertise in Python, R, Machine Learning, SQL, and Tableau. I am motivated by entrepreneurship and business development.
 
 
 ```javascript
@@ -20,15 +22,13 @@ const roy = {
 ```
 🌱 I’m currently learning about Doker and Kubernetes
 
-🤝 I’m looking for help with Co-op or Internship opportunities this summer
+🤝 I’m looking for help with Co-op or Internship opportunities this summer <img align='right' src="https://media.giphy.com/media/qX8pJY8ejpVtD8BNoP/giphy.gif" width="230">
 
-📫 How to reach me roy.as@northeastern.edu
+📫 How to reach me roy.as@northeastern.edu 
 
 📄 Here's my <a href="https://drive.google.com/file/d/1qrIj5P-Ap5-5MS4ytNjat_sMdzl_bymj/view?usp=sharing">Resume</a>
 
 📩 Here's my <a href="https://drive.google.com/file/d/1MqeacFQQng_lKyZXmH-k14-WQSVekjQ9/view?usp=sharing">Cover Letter</a>
-
-
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
