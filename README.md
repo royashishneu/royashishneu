@@ -20,8 +20,6 @@ const roy = {
 ```
 🌱 I’m currently learning about Doker and Kubernetes
 
-👯 I’m looking to collaborate on Personal Project 
-
 🤝 I’m looking for help with Co-op or Internship opportunities this summer
 
 📫 How to reach me roy.as@northeastern.edu
