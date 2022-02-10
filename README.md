@@ -3,7 +3,8 @@
 <p><em>Master of Science in Information Systems at <a href="https://www.northeastern.edu">Northeastern University</a>
 </em></p>
 
-[![Linkedin: Ashish Roy](https://img.shields.io/badge/-ashishroy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roy-ashish)](https://www.linkedin.com/in/roy-ashish)
+<a href="https://www.linkedin.com/in/roy-ashish">
+<img alt="linkedin" src="https://img.shields.io/badge/-ashishroy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roy-ashish"></a>
 
 
 ### A little more about me...
