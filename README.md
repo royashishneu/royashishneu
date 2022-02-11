@@ -3,7 +3,7 @@
 <p><em>Master of Science in Information Systems at <a href="https://www.northeastern.edu">Northeastern University</a>
 </em></p>
 
-<a href="https://www.linkedin.com/in/roy-ashish"> <img alt="linkedin" src="https://img.shields.io/badge/-Ashish Roy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roy-ashish"></a> <a href="mailto:roy.as@northeastern.edu?body=Hi, I'm Ashish Roy and thank you for reaching out to me! Please type your message below this line."> <img src="https://img.shields.io/badge/-E--mail-red?style=flat&logo=maildotru&logoColor=white"></a> <a href="sms:+18626845570"> <img src="https://img.shields.io/badge/-SMS-blueviolet?style=flat&logo=googlemessages&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/roy-ashish"> <img alt="linkedin" src="https://img.shields.io/badge/-Ashish Roy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roy-ashish"></a> <a href="mailto:roy.as@northeastern.edu?body=Hi, I'm Ashish Roy and thank you for reaching out to me! Please type your message below this line."> <img src="https://img.shields.io/badge/-E--mail-red?style=flat&logo=maildotru&logoColor=white"></a> <a href="https://wa.me/18626845570"> <img src="https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=whatsapp&logoColor=white"></a>
 
 
 ### A little more about me...
@@ -13,12 +13,12 @@ Engineer specializing in Data Analysis, Machine Learning, Big Data, and Cloud Co
 Co-Founder of <a href="https://www.linkedin.com/company/e-cell-slrtce/?originalSubdomain=in">E-Cell SLRTCE</a>
 
 
-```javascript
-const roy = {
-  pronouns: "he" | "him",
-  code: [Python, Java, Scala, R, C, C++, SQL, T-SQL, MongoDB, Spark, Hadoop],
+```python
+def roy = {
+  pronouns: "he" | "him"
+  code: [Python, Java, Scala, R, C, C++, SQL, T-SQL, MongoDB, Spark, Hadoop]
   ml packages: [TensorFlow, PyTorch, SciPy, Keras, NumPy, Seaborn, Scikit-Learn, Pandas, NLTK, Matplotlib]
-  tools: [AWS, Kafka, Discovery HPC Cluster, Anaconda, Tableau, PowerBI, MS Office, NetBeans, IntelliJ],
+  tools: [AWS, Kafka, Discovery HPC Cluster, Anaconda, Tableau, PowerBI, MS Office, NetBeans, IntelliJ]
   certifications: [Tableau Analyst, Tableau Data Scientist, Statistics for Data Science and Business Analysis - Udemy,
                    The Data Science Course 2020 - Udemy]
 }
