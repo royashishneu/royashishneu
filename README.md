@@ -22,7 +22,7 @@ def roy():
   certifications: [Tableau Analyst, Tableau Data Scientist, Statistics for Data Science and Business Analysis - Udemy,
                    The Data Science Course 2020 - Udemy]
 ```
-🌱 I’m currently learning about Doker and Kubernetes
+🌱 I’m currently learning about Doker, Kubernetes and Parallelizing ML processes on Cloud Clusters 
 
 🤝 I’m looking for Co-op or Internship opportunities this summer <img align='right' src="https://media.giphy.com/media/qX8pJY8ejpVtD8BNoP/giphy.gif" width="230">
 
