@@ -28,7 +28,7 @@ def roy():
 
 📫 How to reach me roy.as@northeastern.edu 
 
-📄 Here's my <a href="[https://drive.google.com/file/d/1qrIj5P-Ap5-5MS4ytNjat_sMdzl_bymj/view?usp=sharing](https://drive.google.com/file/d/1LzghHfctRW1Ktr6yR2Wlf5zYc8T8YqxD/view?usp=sharing)">Resume</a>
+📄 Here's my <a href="https://drive.google.com/file/d/1LzghHfctRW1Ktr6yR2Wlf5zYc8T8YqxD/view?usp=sharing">Resume</a>
 
 📩 Here's my <a href="https://drive.google.com/file/d/1MqeacFQQng_lKyZXmH-k14-WQSVekjQ9/view?usp=sharing">Cover Letter</a>
 
