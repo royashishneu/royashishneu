@@ -16,15 +16,16 @@ Co-Founder of <a href="https://www.linkedin.com/company/e-cell-slrtce/?originalS
 ```python
 def roy():
   pronouns = "he" | "him"
-  code = [Python, Java, Scala, R, C, C++, SQL, T-SQL, MongoDB, Spark, Hadoop]
-  ml_packages = [TensorFlow, PyTorch, SciPy, Keras, NumPy, Seaborn, Scikit-Learn, Pandas, NLTK, Matplotlib]
-  tools = [AWS, Kafka, Discovery HPC Cluster, Anaconda, Tableau, PowerBI, MS Office, NetBeans, IntelliJ]
+  languages = [Python, Java, Scala, R, C, C++, SQL, CQL, MongoDB, Spark, Hadoop]
+  ml_concepts = [Supervised Learning, Unsupervised Learning, Reinforcement Learning, Neural Networks, Gradient Descent, Overfitting, Bias-Variance trade-off, Regularization, Ensemble Learning, Transfer Learning]
+  ml_packages = [NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, Scipy, Selenium, OpenCV, CUDA]
+  tools = [Informatica, Azure DevOps, SAP, AWS, Hadoop Ecosystem, Anaconda, MS Office]
   certifications: [Tableau Analyst, Tableau Data Scientist, Statistics for Data Science and Business Analysis - Udemy,
                    The Data Science Course 2020 - Udemy]
 ```
-🌱 I’m currently learning about Doker, Kubernetes and Parallelizing ML processes on Cloud Clusters 
+🌱 I’m currently learning about ways to improve your company's data driven solutions 
 
-🤝 I’m looking for Full-Time opportunitiesstarting May 2023 <img align='right' src="https://media.giphy.com/media/qX8pJY8ejpVtD8BNoP/giphy.gif" width="230">
+🤝 I’m looking for Full-Time opportunities starting May 2023 <img align='right' src="https://media.giphy.com/media/qX8pJY8ejpVtD8BNoP/giphy.gif" width="230">
 
 📫 How to reach me roy.as@northeastern.edu 
 
