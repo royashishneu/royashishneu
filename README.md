@@ -17,9 +17,9 @@ Co-Founder of <a href="https://www.linkedin.com/company/e-cell-slrtce/?originalS
 def roy():
   pronouns = "he" | "him"
   languages = [Python, Java, Scala, R, C, C++, SQL, CQL, MongoDB, Spark, Hadoop]
-  ml_concepts = [Supervised Learning, Unsupervised Learning, Reinforcement Learning, Neural Networks, Gradient Descent, \
+  ml_concepts = [Supervised Learning, Unsupervised Learning, Reinforcement Learning, Neural Networks, Gradient Descent,\
                  Overfitting, Bias-Variance trade-off, Regularization, Ensemble Learning, Transfer Learning]
-  ml_packages = [NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, Scipy, Selenium, \
+  ml_packages = [NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, Scipy, Selenium,\
                  OpenCV, CUDA]
   tools = [Informatica, Azure DevOps, SAP, AWS, Hadoop Ecosystem, Anaconda, MS Office]
   certifications: [Tableau Analyst, Tableau Data Scientist, Statistics for Data Science and Business Analysis - Udemy,
