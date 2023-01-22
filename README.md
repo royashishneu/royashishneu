@@ -30,7 +30,7 @@ def roy():
 
 📄 Here's my <a href="https://drive.google.com/file/d/1LzghHfctRW1Ktr6yR2Wlf5zYc8T8YqxD/view?usp=sharing">Resume</a>
 
-📩 Here's my <a href="https://drive.google.com/file/d/1MqeacFQQng_lKyZXmH-k14-WQSVekjQ9/view?usp=sharing">Cover Letter</a>
+📩 Here's my <a href="https://drive.google.com/file/d/1OqNIK6FmIdxfrqF3FVeXwjNYmOZ99Zfs/view?usp=sharing">Cover Letter</a>
 
 <em><b>I love interacting with people, so let's meet up for a cup of coffee and get to know ourselves a bit better</b> :)</em>
 
