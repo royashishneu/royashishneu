@@ -4,7 +4,7 @@
 <p>Bachelor of Engineering in Computer Engineering at <a href="https://mu.ac.in/">University of Mumbai</a>
 </em></p>
 
-<a href="https://www.linkedin.com/in/roy-ashish"> <img src="https://img.shields.io/badge/-Ashish Roy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roy-ashish"></a> <a href="mailto:ashish_roy2outlook.com?body=Hi, I'm Ashish Roy and thank you for reaching out to me! Please type your message below this line."> <img src="https://img.shields.io/badge/-E--mail-red?style=flat&logo=maildotru&logoColor=white"></a> <a href="https://wa.me/18626845570"> <img src="https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/roy-ashish"> <img src="https://img.shields.io/badge/-Ashish Roy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roy-ashish"></a> <a href="mailto:ashish_roy2outlook.com?body=Hi, I'm Ashish Roy and thank you for reaching out to me! Please type your message below this line."> <img src="https://img.shields.io/badge/-E--mail-red?style=flat&logo=maildotru&logoColor=white"></a> <a href="https://ashish-roy.medium.com/"> <img src="https://img.shields.io/badge/-@ Medium-black"></a> <a href="https://wa.me/18626845570"> <img src="https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=whatsapp&logoColor=white"></a>
 
 
 ### A little more about him...
