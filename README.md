@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/roy-ashish"> <img src="https://img.shields.io/badge/-Ashish Roy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roy-ashish"></a> <a href="mailto:ashish_roy2outlook.com?body=Hi, I'm Ashish Roy and thank you for reaching out to me! Please type your message below this line."> <img src="https://img.shields.io/badge/-E--mail-red?style=flat&logo=maildotru&logoColor=white"></a> <a href="https://wa.me/18626845570"> <img src="https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=whatsapp&logoColor=white"></a>
 
 
-### A little more about Ashish Roy...
+### A little more about him...
 
 Ashish Roy is an enthusiastic data professional, his passion lies in providing data-driven solutions to companies by harnessing the power of machine learning and analytics. He is dedicated to learning new ways in leveraging data to drive informed decision-making and deliver tangible business outcomes. With a solid foundation in data analysis and a strong inclination towards exploring cutting-edge machine learning techniques, Ashish is dedicated to empowering organizations with actionable insights that foster growth and success.
 
